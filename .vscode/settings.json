@@ -1,0 +1,7 @@
+{
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "c:\\Users\\Joel\\OneDrive\\Desktop\\CData JDBC Driver for MySQL 2021\\lib\\cdata.jdbc.mysql.jar",
+        "c:\\Users\\Joel\\OneDrive\\Desktop\\mysql-connector.jar"
+    ]
+}
